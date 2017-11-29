@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506526018 source:g:\com prog 2\exercises\ex5 - least squares of linear regression\main.cpp
+	<iostream>
+	<math.h>
+
